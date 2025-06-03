@@ -1,0 +1,8 @@
+scikit-learn
+nltk
+spacy
+gensim
+tensorflow
+torch
+transformers
+openai
